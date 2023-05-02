@@ -1,4 +1,4 @@
- HEAD
+ HEAD fetch
 testing developing and running
 
 #!/bin/bash
